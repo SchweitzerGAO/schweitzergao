@@ -14,19 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt='my github stats' src='https://github-readme-stats.vercel.app/api?username=schweitzergao&show_icons=true&theme=default'>
+<img alt='my github stats' src='https://github-readme-stats.vercel.app/api?username=schweitzergao&show_icons=true&theme=default&count_private=true'>
 
 **Allons-y Charles!**
 ### About me
 A software engineer loving both natural and coding languages
+- 🏢 *Organization*: [School of Software Engineering, Tongji University](https://sse.tongji.edu.cn)
+- 🎯 *Focusing on:* Web3D & NLP
+- 🔭 *currently learning:* Java & AI
+- 📫 *Contact me at:* 1030587461@qq.com OR charlesgao2101024@gmail.com
 #### Natural Languages I can speak OR recognize
 1. Chinese
 2. English
 3. Japanese
 #### Coding Languages I can 'speak'
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=schweitzergao&layout=compact)
-- 🎯*Focusing on:* Web3D & NLP
-- 🔭*currently learning:* Java & AI
-- 📫 *Contact me at:* 1030587461@qq.com OR charlesgao2101024@gmail.com
 
 
