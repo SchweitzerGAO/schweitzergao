@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt='my github stats' src='https://github-readme-stats.vercel.app/api?username=schweitzergao&show_icons=true&theme=default&count_private=true'>
+<img alt='my github stats' src='https://github-readme-stats.vercel.app/api?username=schweitzergao&show_icons=true&theme=radicalz&count_private=true'>
 
 **Allons-y Charles!**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=schweitzergao)
