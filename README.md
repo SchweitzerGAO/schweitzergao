@@ -31,6 +31,6 @@ A software engineer loving both natural and coding languages
 4. Korean (recognize and pronounce only)
 5. Vietnamese (now focusing)
 #### Coding Languages I can 'speak'
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=schweitzergao&layout=compact&exclude_repo=HanLP,d2l-zh,schweitzergao.github.io)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=schweitzergao&layout=compact&exclude_repo=HanLP,d2l-zh,schweitzergao.github.io,MIT-6.828-2018-Labs)
 
 
