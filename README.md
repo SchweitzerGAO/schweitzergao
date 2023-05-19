@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 A software engineer loving both natural and coding languages
 - 🏢 *Organization*: [School of Software Engineering, Tongji University, China](https://sse.tongji.edu.cn)
 - 🎯 *Focusing on:* Big Models
-- 🔭 *currently learning:* Big Models and their development
+- 🔭 *currently learning:* Big Models and their applications
 - 📫 *Contact me at:* 1030587461@qq.com OR charlesgao2101024@gmail.com
 #### Natural Languages I can speak OR recognize
 1. Chinese
