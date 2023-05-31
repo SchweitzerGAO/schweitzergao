@@ -6,6 +6,7 @@
 **Allons-y Charles!**
 
 **Visitors**
+
  ![Visitor Count](https://profile-counter.glitch.me/SchweitzerGAO/count.svg) 
 ### About me
 A software engineer loving both natural and coding languages
