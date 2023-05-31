@@ -4,6 +4,8 @@
 <img alt='my github stats' src='https://github-readme-stats.vercel.app/api?username=schweitzergao&show_icons=true&theme=radical&count_private=true'>
 
 **Allons-y Charles!**
+
+**Visitors**
  ![Visitor Count](https://profile-counter.glitch.me/SchweitzerGAO/count.svg) 
 ### About me
 A software engineer loving both natural and coding languages
