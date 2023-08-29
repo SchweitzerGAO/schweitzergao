@@ -15,9 +15,9 @@ A software engineer loving both natural and coding languages
 - 🔭 *currently learning:* Big Models and their applications
 - 📫 *Contact me at:* charlesgao2101024@qq.com OR charlesgao2101024@gmail.com
 #### Natural Languages I can speak OR recognize
-1. Chinese
-2. English
-3. Japanese
+1. Chinese(Native)
+2. English(Advanced)
+3. Japanese(Intermediate)
 4. Korean (recognize and pronounce only)
 5. Vietnamese (now focusing)
 #### Coding Languages I can 'speak'
