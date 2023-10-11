@@ -18,8 +18,8 @@ A software engineer loving both natural and coding languages
 1. Chinese(Native)
 2. English(Advanced)
 3. Japanese(Intermediate, now focusing)
-4. Korean (Now focusing)
-5. Vietnamese (Now focusing)
+4. Korean (Novice, now focusing)
+5. Vietnamese (Novice, Now focusing)
 #### Coding Languages I can 'speak'
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=schweitzergao&layout=compact&exclude_repo=HanLP,d2l-zh,schweitzergao.github.io,MIT-6.828-2018-Labs)
 
