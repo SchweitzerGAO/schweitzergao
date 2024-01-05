@@ -14,13 +14,13 @@ A software engineer loving both natural and coding languages
 - 🎯 *Focusing on:* LLMs
 - 🔭 *currently learning:* RLHF and related technologies
 - 📫 *Contact me at:* charlesgao2101024@qq.com OR charlesgao2101024@gmail.com
-#### Natural Languages I can speak or recognize
+#### Natural languages I can speak or recognize
 1. Chinese(Native)
 2. English(Advanced)
 3. Japanese(Intermediate, now focusing)
 4. Korean (Novice, now focusing)
 5. Vietnamese (Novice, Now focusing)
-#### Coding Languages I can 'speak'
+#### Coding languages I can 'speak' or 'recognize'
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=schweitzergao&layout=compact&exclude_repo=HanLP,d2l-zh,schweitzergao.github.io,MIT-6.828-2018-Labs)
 
 
