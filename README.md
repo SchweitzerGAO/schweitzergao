@@ -14,7 +14,7 @@ A software engineer loving both natural and coding languages
 - 🎯 *Focusing on:* LLMs
 - 🔭 *currently learning:* RLHF and related technologies
 - 📫 *Contact me at:* charlesgao2101024@qq.com OR charlesgao2101024@gmail.com
-#### Natural Languages I can speak OR recognize
+#### Natural Languages I can speak or recognize
 1. Chinese(Native)
 2. English(Advanced)
 3. Japanese(Intermediate, now focusing)
