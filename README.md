@@ -12,7 +12,7 @@
 A software engineer loving both natural and coding languages
 <!-- - 🏢 *Organization*: [School of Software Engineering, Tongji University, China](https://sse.tongji.edu.cn) -->
 - 🎯 *Focusing on:* LLMs
-- 🔭 *currently learning:* RLHF and related technologies
+- 🔭 *currently learning:* InternLM and its related frameworks
 - 📫 *Contact me at:* charlesgao2101024@qq.com OR charlesgao2101024@gmail.com
 #### Natural languages I can speak or recognize
 1. Chinese(Native)
